@@ -1,0 +1,10 @@
+pandas # Data manipulation and analysis
+numpy # Numerical computing
+matplotlib # Plotting library
+seaborn # Statistical data visualization
+yfinance # Yahoo Finance API
+nltk # Natural Language Toolkit
+vaderSentiment # Sentiment analysis
+transformers # Hugging Face Transformers
+torch # PyTorch for deep learning
+requests # HTTP library for making requests
